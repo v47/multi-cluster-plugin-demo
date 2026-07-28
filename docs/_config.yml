@@ -1,0 +1,6 @@
+title: One Operator, Many Clusters
+description: >-
+  Multicluster controllers with Kubebuilder and sigs.k8s.io/multicluster-runtime,
+  demoed end-to-end on two local kind clusters.
+theme: jekyll-theme-cayman
+show_downloads: false
